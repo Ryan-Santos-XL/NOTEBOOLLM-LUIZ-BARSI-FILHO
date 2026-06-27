@@ -11,11 +11,6 @@ O objetivo é organizar os conteúdos estudados, facilitando futuras consultas e
 📂 Estrutura do repositório
 
 ```
-Projeto
-│
-├── The_Wealth_Ledger.pdf
-├── O_Método_Barsi.mp4
-└── README.md
 ```
 
 Conteúdo abordado
