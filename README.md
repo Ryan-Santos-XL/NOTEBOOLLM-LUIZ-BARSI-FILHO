@@ -10,9 +10,6 @@ O objetivo é organizar os conteúdos estudados, facilitando futuras consultas e
 
 📂 Estrutura do repositório
 
-```
-```
-
 Conteúdo abordado
 
 - Conceitos do Método Barsi
